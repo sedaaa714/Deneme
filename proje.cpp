@@ -6,6 +6,7 @@ int main()
 	x=5;
 	y=10;
 	toplam=x+y;
+	cout<<"helloooo"<<endl;
 	cout<<"toplam: "<<toplam<<endl;
 	return 0;
 }
